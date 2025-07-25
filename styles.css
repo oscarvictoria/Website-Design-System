@@ -1,6 +1,7 @@
 body {
     box-sizing: border-box;
     margin: 0 10%;
+ 
 
 }
 
@@ -27,19 +28,19 @@ body {
 }
 
 .blue {
-    background-color: cornflowerblue;
+    background-color: #4682b4;
 }
 
 .red {
-    background-color: red;
+    background-color: #FF4500;
 }
 
 .yellow {
-    background-color: yellow;
+    background-color: #EEE8AA;
 }
 
 .green {
-    background-color: lightgreen;
+    background-color: #90EE90; 
 }
 
 .font-box {
@@ -54,5 +55,32 @@ body {
   min-height: 100px;
   /* text-align: center; */
 }
+
+
+.one p {
+   font-family: "Fira Code", monospace;
+
+}
+
+.bold  {
+    font-weight: bold;
+
+}
+
+
+.italic {
+    font-style: italic;
+}
+
+
+.two p {
+    font-family: "Press Start 2P", system-ui;
+    
+}
+
+.three p {
+ font-family: "Oxanium", sans-serif;
+}
+
 
 
